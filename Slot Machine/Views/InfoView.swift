@@ -20,10 +20,10 @@ struct InfoView: View {
         Section(header: Text("About the application")) {
           FormRowView(firstItem: "Application", secondItem: "Slot Machine")
           FormRowView(firstItem: "Platforms", secondItem: "iPhone, iPad, Mac")
-          FormRowView(firstItem: "Developer", secondItem: "John / Jane")
-          FormRowView(firstItem: "Designer", secondItem: "Robert Petras")
+          FormRowView(firstItem: "Developer", secondItem: "Jigar")
+          FormRowView(firstItem: "Designer", secondItem: "Jigar Dave")
           FormRowView(firstItem: "Music", secondItem: "Dan Lebowitz")
-          FormRowView(firstItem: "Website", secondItem: "swiftuimasterclass.com")
+          FormRowView(firstItem: "Website", secondItem: "github.com/jigardave8")
           FormRowView(firstItem: "Copyright", secondItem: "© All rights reserved.")
           FormRowView(firstItem: "Version", secondItem: "1.0.1")
         }
