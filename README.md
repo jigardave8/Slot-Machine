@@ -11,8 +11,9 @@
 
 Try your lucky, play the BEST slot machines and free slot until you run out of luck.
 
-Play the only Vegas-style slot machines free with bonus for iOS. Enjoy great free slot machines. Gain big experience in big win slots machines and you will climb up fast! 
-Feel the thrill of real Simple slots machine with points as you click to win  coins!
+Play the Simple but best slot machine free with bonus for iOS.
+Gain big experience in big win slots machines and you will climb up fast! 
+Feel the thrill of real Simple slot machine with points as you click to win  coins!
 
 <h2>Features: </h2>
 
