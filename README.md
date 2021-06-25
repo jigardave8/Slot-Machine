@@ -3,8 +3,8 @@
 [![Platform](https://img.shields.io/badge/platform-iOS%20%7C%20-blue)]()
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-# Slot-Machine 
-iOS App made in SwiftUI that is made for fun and trying luck in form of random generator formula.
+# <h1>Slot-Machine</h1> 
+<h2>iOS App made in SwiftUI that is just for fun and trying luck in form of random generator formula. </h2>
 
 <p align="center">
    <p align="left">
@@ -14,7 +14,8 @@ Try your lucky, play the BEST slot machines and free slot until you run out of l
 Play the only Vegas-style slot machines free with bonus for iOS. Enjoy great free slot machines. Gain big experience in big win slots machines and you will climb up fast! 
 Feel the thrill of real Simple slots machine with points as you click to win  coins!
 
-Features:
+<h2>Features: </h2>
+
 1. 100% slotsfree with bonus!
 2. Jackpot for every slot machine.
 3. Exciting mini casino games to win more.
