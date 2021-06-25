@@ -6,9 +6,8 @@
 # <h1>Slot-Machine</h1> 
 <h2>iOS App made in SwiftUI that is just for fun and trying luck in form of random generator formula. </h2>
 
-<p align="center">
-   <p align="left">
-
+<p align="center"> </P>
+   <img src=”(https://user-images.githubusercontent.com/13096575/123420370-1d3ba600-d5d9-11eb-893d-8f8cfb8f4988.png)”>
 Try your lucky, play the BEST slot machines and free slot until you run out of luck.
 
 Play the Simple but best slot machine free with bonus for iOS.
