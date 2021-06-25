@@ -3,7 +3,7 @@
 [![Platform](https://img.shields.io/badge/platform-iOS%20%7C%20-blue)]()
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-# Slot-Machine - 
+# Slot-Machine 
 iOS App made in SwiftUI that is made for fun and trying luck in form of random generator formula.
 
 <p align="center">
