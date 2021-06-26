@@ -18,7 +18,9 @@ Play the Simple but best slot machine free with bonus for iOS.
 Gain big experience in big win slots machines and you will climb up fast! 
 Feel the thrill of real Simple slot machine with points as you click to win  coins!
 
-<img src="https://user-images.githubusercontent.com/13096575/123505557-70673480-d67d-11eb-806f-e5e1373a16c4.png" width="250" height="500">
+   <p align="center"> 
+<img src="https://user-images.githubusercontent.com/13096575/123505557-70673480-d67d-11eb-806f-e5e1373a16c4.png" width="250" height="500">______________________ <img src="https://user-images.githubusercontent.com/13096575/123506109-2e8bbd80-d680-11eb-8af2-6337cd3991c4.gif" width="250" height="500"></P>
+
 
 
 <h2>Features: </h2>
