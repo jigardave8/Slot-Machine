@@ -9,6 +9,7 @@
 ![Optional Text](https://user-images.githubusercontent.com/13096575/123420370-1d3ba600-d5d9-11eb-893d-8f8cfb8f4988.png)
 
 
+
 <p align="center"> </P>
    <img src=”(https://user-images.githubusercontent.com/13096575/123420370-1d3ba600-d5d9-11eb-893d-8f8cfb8f4988.png)”>
 Try your luck, play the BEST slot machines and free slot until you run out of luck.
@@ -16,6 +17,9 @@ Try your luck, play the BEST slot machines and free slot until you run out of lu
 Play the Simple but best slot machine free with bonus for iOS.
 Gain big experience in big win slots machines and you will climb up fast! 
 Feel the thrill of real Simple slot machine with points as you click to win  coins!
+
+<img src="https://user-images.githubusercontent.com/13096575/123505557-70673480-d67d-11eb-806f-e5e1373a16c4.png" width="250" height="500">
+
 
 <h2>Features: </h2>
 
